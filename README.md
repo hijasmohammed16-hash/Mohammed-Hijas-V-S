@@ -8,7 +8,7 @@ Hi there 👋, I’m Exhawk
 * 🚀 Interested in Web Development, AI, Backend Development, and Open Source
 * 🎯 Goal: Build impactful software and become a skilled software engineer
 
-🛠️ Tech Stack
+🛠️ Tech Stacks
 
 Languages
 
@@ -40,9 +40,6 @@ Frameworks & Tools
 * REST APIs
 * Git & GitHub
 * Database Management Systems
-
-📫 Connect With Me
- * LinkedIn:https://www.linkedin.com/in/mohammedhijasvs?utm_source=share_via&utm_content=profile&utm_medium=member_ios<br>
  
    
 ## 🌐 Socials:
