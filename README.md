@@ -1,6 +1,6 @@
-Hi there 👋, I’m Exhawk
+Hi there 👋, I’m Exhawk 
 
-🎓 About Me
+🎓 About Me 
 
 * 💻 B.Tech Computer Science & Engineering Student
 * 📍 Royal College of Engineering and Technology, Akkikavu
@@ -40,3 +40,7 @@ Frameworks & Tools
 * REST APIs
 * Git & GitHub
 * Database Management Systems
+
+📫 Connect With Me
+ * LinkedIn:https://www.linkedin.com/in/mohammedhijasvs?utm_source=share_via&utm_content=profile&utm_medium=member_ios<br>
+   
